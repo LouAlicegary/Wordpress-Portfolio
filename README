@@ -1,0 +1,23 @@
+PHP/CSS/JQUERY CUSTOM PORTFOLIO IN WORDPRESS 
+============================================
+
+Demo Link: 
+
+http://www.loualicegary.com/
+
+
+Description: 
+
+This repository contains the files for my professional portfolio, which you can see at the link above. It integrates a little bit of jQuery, pretty much solely for the category expansion components (when you click on a [+] on the main page), and also uses CSS pretty extensively. If Drupal theming is anything like WordPress theming, which I imagine it is, then this should prove my capabilities just fine.  
+
+
+
+Files Worth Peeking At:
+
+/index.php -- This controls the meat of the main view, namely everything that occurs under the "Lou Alicegary" part.
+/header.php -- This controls the header information, including the initial jQuery library calls and the top bar.
+/footer.php -- This displays the bottom bar (the part that says "Instructional Design") and the little icons.
+/single.php -- When you click on a project on the main page, this is the PHP that loads.
+/headerSingle.php --Displays the headers for single.php (see above).
+/style.css -- CSS styles galore. Well, not *that* many. 
+/js/* -- A lot of this is jQuery and stuff I adapted from other templates. I edited a bit of it in spots to suit my needs.
